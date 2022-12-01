@@ -6,7 +6,7 @@ However, you may not think this may be safe when it comes to **keeping the data 
 
 This **SaaS** is currently free, we do not ask for anything in return. However, in future updates we may start limiting features and turn this into a **Freemium SaaS Application**.
 
-This is a **C#, C++, VB .NET** version of the original **DiscordDB** which is being created by my friend [jamie105](https://github.com/jamie105). You're able to use **DiscordDB.NET** on C#, C++, VB (as long as you use .NET).
+This is a **C#, C++, VB .NET** version of the original **DiscordDB** which is being created by my friend [jamie105](https://github.com/jamie105). You're able to use **DiscordDB.NET** on C#, C++, VB (as long as you use .NET). This project uses **Discord.NET** and Discord Bots to create a working database system.
 
 ## Contribution
 

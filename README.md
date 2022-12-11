@@ -29,4 +29,4 @@ What you can't do:
 - Steal (or "borrow") code for your own benefit
 - Make malicious changes to the project
 - Act as if you own/created this project
-- Use the "DiscordDB" name without our consent
+- Use the "DiscordDB" trademark without our consent

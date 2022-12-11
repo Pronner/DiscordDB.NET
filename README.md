@@ -1,6 +1,6 @@
 ![](https://media.discordapp.net/attachments/920270362334355506/1047979368196092004/DiscordDB.png?size=10) 
 # DiscordDB.NET™
-DiscordDB.NET is an open-source .NET Discord Database Server software that views discord servers as database spaces for you to store, retrieve data. This is a very unique concept for data trafficking quickly and safely.
+DiscordDB.NET is an open-source .NET Discord Database Server software that views discord servers as database spaces for you to store, retrieve data. This is a very unique and efficient concept for trafficking data quickly and safely.
 
 However, you may not think this may be safe when it comes to **keeping the data stored**. Since the **DiscordAPI does not allow viewing/editing messages older than 14 days**, we've decided to create a system that renews messages (resends message) **every 12 hours.** Therefore, your data will not be lost.
 

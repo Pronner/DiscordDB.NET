@@ -22,7 +22,6 @@ What you can do:
 - Modify the source code & create a merge request
 - Share this project with your friends/family (without any changes of your own if they weren't merged)
 - Use the DiscordDB Server Software / DiscordDB Requests DLL
-- Anything else that we don't mention in the "What you can't do" section below
 
 What you can't do:
 - Modify the source code & use it commercially
